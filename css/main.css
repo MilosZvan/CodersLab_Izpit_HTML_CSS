@@ -111,6 +111,8 @@ body {
     padding-bottom: 100px;
 }
 
+/* end main  */
+
 .contact{
     width: 100%;
     display: flex;
@@ -159,6 +161,8 @@ body {
     gap: 20px;
 }
 
+/* end contact  */
+
 .footer{
     width: 100%;
     display: flex;
@@ -176,3 +180,4 @@ body {
     justify-content: center;
 }
 
+/* end footer  */
